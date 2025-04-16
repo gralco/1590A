@@ -1891,12 +1891,6 @@
 		)
 	)
 	(junction
-		(at 82.55 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e90f4a7-0d3b-447b-bbc5-15774ed95f34")
-	)
-	(junction
 		(at 189.23 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1913,12 +1907,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "876df689-d894-4b31-9cf1-80377452a709")
-	)
-	(junction
-		(at 27.94 229.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8ddb61cc-4815-494c-9697-2dd53cb983ea")
 	)
 	(junction
 		(at 200.66 55.88)
@@ -1996,16 +1984,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 156.21) (xy 82.55 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27660c0c-69e6-4fae-bb75-26e303c7900c")
-	)
-	(wire
-		(pts
 			(xy 170.18 74.93) (xy 176.53 74.93)
 		)
 		(stroke
@@ -2066,16 +2044,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 242.57) (xy 25.4 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45c06c8c-498f-4f36-a390-315d8f2c4e7d")
-	)
-	(wire
-		(pts
 			(xy 60.96 247.65) (xy 58.42 247.65)
 		)
 		(stroke
@@ -2116,16 +2084,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 229.87) (xy 30.48 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d077c31-f692-402e-9f64-e5dc3d22d786")
-	)
-	(wire
-		(pts
 			(xy 90.17 137.16) (xy 90.17 142.24)
 		)
 		(stroke
@@ -2133,16 +2091,6 @@
 			(type default)
 		)
 		(uuid "62666cf2-7267-43df-bbcf-84d95e947a50")
-	)
-	(wire
-		(pts
-			(xy 27.94 217.17) (xy 27.94 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6af82cc2-0b86-4ebb-9ab4-c2b92007baee")
 	)
 	(wire
 		(pts
@@ -2163,16 +2111,6 @@
 			(type default)
 		)
 		(uuid "6e0fc662-2756-42b2-a82d-65453fdc7270")
-	)
-	(wire
-		(pts
-			(xy 25.4 217.17) (xy 27.94 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "728dac0d-7fb6-49b0-b64d-43fb88679ac6")
 	)
 	(wire
 		(pts
@@ -2366,16 +2304,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 227.33) (xy 27.94 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be2564ce-6cd0-4e1a-9c30-c0a46a1bb4e5")
-	)
-	(wire
-		(pts
 			(xy 83.82 217.17) (xy 86.36 217.17)
 		)
 		(stroke
@@ -2396,16 +2324,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 229.87) (xy 27.94 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c416fa16-c846-4156-abc7-62e1099442f7")
-	)
-	(wire
-		(pts
 			(xy 184.15 53.34) (xy 176.53 53.34)
 		)
 		(stroke
@@ -2413,16 +2331,6 @@
 			(type default)
 		)
 		(uuid "c995c85f-42f3-41d9-9f4a-21994dfaab5f")
-	)
-	(wire
-		(pts
-			(xy 27.94 240.03) (xy 27.94 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cbccb922-8199-47e8-9b0c-bb17b5265f44")
 	)
 	(wire
 		(pts
@@ -2523,18 +2431,6 @@
 			(type default)
 		)
 		(uuid "fee488e3-03dd-4d40-91a4-ddf262d45aca")
-	)
-	(rectangle
-		(start 12.7 210.82)
-		(end 43.18 246.38)
-		(stroke
-			(width 0)
-			(type dash)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 031c6366-6ba1-44a8-8f11-ed7794ae48fc)
 	)
 	(rectangle
 		(start 45.72 210.82)
@@ -2646,16 +2542,6 @@
 		)
 		(uuid "a33d6cd8-7406-44e1-bbef-5e00f80383f0")
 	)
-	(text "RV2 potentiometer model"
-		(exclude_from_sim no)
-		(at 27.432 214.122 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a791de07-a928-460b-9f16-2157704bf633")
-	)
 	(text "V+ & V- Rails"
 		(exclude_from_sim no)
 		(at 57.658 213.868 0)
@@ -2688,28 +2574,6 @@
 			)
 		)
 	)
-	(global_label "OUT"
-		(shape input)
-		(at 30.48 229.87 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "11711f89-6a9d-443a-8dc6-dd2614ed1841")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.0938 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "+V"
 		(shape input)
 		(at 58.42 217.17 180)
@@ -2723,28 +2587,6 @@
 		(uuid "17e158db-3b1c-4d4a-ae3d-5843989b6193")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 52.7738 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DRAIN"
-		(shape input)
-		(at 25.4 242.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1e7cd8ad-185e-4631-95a1-6110b83e3f9f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.8509 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2864,28 +2706,6 @@
 			)
 		)
 	)
-	(global_label "IN"
-		(shape input)
-		(at 25.4 217.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "735f3faa-4f8b-4229-a4a2-e29706e674e4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.4795 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "-V"
 		(shape input)
 		(at 58.42 247.65 180)
@@ -2970,28 +2790,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DRAIN"
-		(shape input)
-		(at 80.01 156.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8b0b285c-948d-461a-9845-02b282a2a145")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.4609 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -3608,146 +3406,6 @@
 			(project "Tremolo"
 				(path "/9e337e0b-885b-4d2b-99a2-62cdd082c615"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 27.94 236.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "211699d3-ec3c-42da-b763-2a77411111fe")
-		(property "Reference" "R8"
-			(at 30.48 234.9499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "80k"
-			(at 30.48 237.4899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.162 236.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 27.94 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 27.94 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d6ab6ff0-a00b-4b50-aba1-d425e54f8057")
-		)
-		(pin "2"
-			(uuid "edd2ee86-adb7-4c86-b941-364e0dbfcc14")
-		)
-		(instances
-			(project "Tremolo"
-				(path "/9e337e0b-885b-4d2b-99a2-62cdd082c615"
-					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 27.94 223.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23db74ee-7b39-46c6-9d2c-c73f096de431")
-		(property "Reference" "R7"
-			(at 30.48 222.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "20k"
-			(at 30.48 224.7899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.162 223.52 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 27.94 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 27.94 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cc5c8f9f-533d-4d95-bf67-b22a8dab8f21")
-		)
-		(pin "2"
-			(uuid "5106af50-4d1e-4f6e-adb6-1579585d2cbb")
-		)
-		(instances
-			(project ""
-				(path "/9e337e0b-885b-4d2b-99a2-62cdd082c615"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -4397,7 +4055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=+ 2=-"
+		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
 			(at 193.04 74.93 0)
 			(effects
 				(font
@@ -4406,7 +4064,16 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "r=50k"
+		(property "Sim.Params" "r=100k pos=0.5"
+			(at 193.04 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "POT"
 			(at 193.04 74.93 0)
 			(effects
 				(font
@@ -5090,7 +4757,7 @@
 		(lib_id "Device:R_Potentiometer")
 		(at 82.55 137.16 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -5133,6 +4800,42 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "R"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "POT"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
+			(at 82.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Params" "r=100k pos=0.2"
 			(at 82.55 137.16 0)
 			(effects
 				(font
